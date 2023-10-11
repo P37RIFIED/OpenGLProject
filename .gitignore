@@ -365,3 +365,6 @@ FodyWeavers.xsd
 *.dlldata
 
 *.dll
+
+
+*.dll
